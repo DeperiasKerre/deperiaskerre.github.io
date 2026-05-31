@@ -5,7 +5,7 @@ type: "Courses"
 permalink: /teaching/graduate-courses
 venue: "Strathmore University"
 date: 2025-01-02
-----------------
+---
 
 Graduate-level teaching includes:
 
@@ -13,3 +13,4 @@ Graduate-level teaching includes:
 * Artificial Intelligence and Machine Learning
 * Research Project Supervision
 * Graduate Research Methods and Mentorship
+
