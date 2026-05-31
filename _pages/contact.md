@@ -6,11 +6,11 @@ author_profile: true
 
 ## Contact
 
-**Email:** dkmasinde@gmail.com
+📧 **Email:** [deperias.kerre@uliege.be](mailto:deperias.kerre@uliege.be)
 
-**ORCID:** https://orcid.org/0000-0002-7437-6735
+🔗 **ORCID:** [orcid.org/0000-0002-7437-6735](https://orcid.org/0000-0002-7437-6735)
 
-**LinkedIn:** https://www.linkedin.com/in/deperias-kerre-4b251ba9/
+💼 **LinkedIn:** [linkedin.com/in/deperias-kerre-4b251ba9](https://www.linkedin.com/in/deperias-kerre-4b251ba9/)
 
 **Affiliations**
 
