@@ -6,7 +6,7 @@ type: "Courses"
 permalink: /teaching/undergraduate-courses
 venue: "Strathmore University"
 date: 2025-01-01
-----------------
+---
 
 Courses taught at undergraduate level include:
 
