@@ -17,18 +17,15 @@ My current research investigates methods for improving data discoverability, int
 
 * Artificial Intelligence
 * Knowledge Representation
-* Information Extraction
-* Information Retrieval
+* Information Extraction and Information Retrieval
 * Metadata Quality Assessment
-* Semantic Keyword Quality
-* Data Integration
-* Dataset Discovery
+* Data Integration and Dataset Discovery
 * Semantic Technologies
 * FAIR Data Principles
 * Machine Learning
 
 ## Current Research
 
-My current work focuses on context-aware data integration and metadata-driven discovery systems. In particular, I investigate how metadata quality dimensions, including semantic keyword quality, influence dataset retrieval performance, discoverability, and interoperability. I am interested in developing methods and tools that support the creation of high-quality metadata and facilitate more effective access to data resources across heterogeneous information environments.
+My current work focuses on context-aware data integration and metadata-driven discovery systems. In particular, I investigate how metadata quality dimensions, influence dataset retrieval performance, discoverability, and interoperability. I am interested in developing methods and tools that support the creation of high-quality metadata and facilitate more effective access to data resources across heterogeneous information environments.
 
 
