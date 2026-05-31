@@ -26,20 +26,17 @@ Strathmore University, Kenya
 ## Education
 
 * **PhD in Computer Science**, University of Montpellier, France (2025)
-* **MSc in Information Technology (Artificial Intelligence and Data Analytics)**, Strathmore University
-* **BSc in Mathematics and Computer Science (First Class Honours)**, Kirinyaga University
+* **MSc in Information Technology (Artificial Intelligence and Data Analytics)**, Strathmore University (2021)
+* **BSc in Mathematics and Computer Science (First Class Honours)**, Kirinyaga University (2018)
 
 ## Research Interests
 
-* Artificial Intelligence
+* Artificial Intelligence and Machine Learning
 * Knowledge Representation
-* Information Extraction
-* Information Retrieval
+* Information Extraction and Information Retrieval
 * Metadata Quality
-* Semantic Keyword Quality
-* Data Integration
-* Dataset Discovery
-* Semantic Technologies
+* Data Integration and Dataset Discovery
+* Semantic Web Technologies
 * FAIR Data Principles
 
 ## Academic Profiles
