@@ -61,7 +61,6 @@ Research interests include:
 * Machine Learning for Knowledge Representation
 * Information Retrieval and Dataset Discovery
 * Metadata Quality Assessment
-* Semantic Keyword Quality
 * Knowledge Graph Engineering
 * Context-Aware Data Integration
 * FAIR Data and Data Interoperability
