@@ -5,8 +5,6 @@ permalink: /service/
 author_profile: true
 ---
 
-## Professional Service
-
 I actively contribute to the research community through peer review, conference program committee participation, and editorial activities in the fields of artificial intelligence, information retrieval, semantic technologies, data management, and knowledge representation.
 
 ## Journal Reviewing
