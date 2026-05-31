@@ -31,9 +31,4 @@ My current research investigates methods for improving data discoverability, int
 
 My current work focuses on context-aware data integration and metadata-driven discovery systems. In particular, I investigate how metadata quality dimensions, including semantic keyword quality, influence dataset retrieval performance, discoverability, and interoperability. I am interested in developing methods and tools that support the creation of high-quality metadata and facilitate more effective access to data resources across heterogeneous information environments.
 
-## Contact
-
-* Email: [dkmasinde@gmail.com](mailto:dkmasinde@gmail.com)
-* ORCID: https://orcid.org/0000-0002-7437-6735
-* LinkedIn: https://www.linkedin.com/in/deperias-kerre-4b251ba9/
 
