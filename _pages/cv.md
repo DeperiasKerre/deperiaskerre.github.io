@@ -9,56 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
+# Curriculum Vitae
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+[📄 Download Full CV](/files/Deperias_Kerre_CV.pdf)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Current Position
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Postdoctoral Researcher**
+Montefiore Institute of Electrical Engineering and Computer Science
+University of Liège, Belgium
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Lecturer**
+School of Computing and Engineering Sciences
+Strathmore University, Kenya
+
+## Education
+
+* PhD in Computer Science, University of Montpellier, France (2025)
+* MSc in Information Technology (AI and Data Analytics), Strathmore University
+* BSc in Mathematics and Computer Science (First Class Honours), Kirinyaga University
+
+## Research Interests
+
+* Artificial Intelligence
+* Knowledge Representation
+* Information Extraction
+* Information Retrieval
+* Metadata Quality
+* Semantic Technologies
+* Data Integration
+* Dataset Discovery
