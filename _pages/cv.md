@@ -14,7 +14,7 @@ redirect_from:
 
 # Curriculum Vitae
 
-📄 **[Download Full CV](/files/Deperias_Kerre_CV.pdf)**
+📄 **Download Full CV**
 
 ## Current Position
 
@@ -47,6 +47,6 @@ Strathmore University, Kenya
 
 ## Academic Profiles
 
-* ORCID: https://orcid.org/0000-0002-7437-6735
-* LinkedIn: https://www.linkedin.com/in/deperias-kerre-4b251ba9/
-* Personal Website: https://deperiaskerre.github.io
+* ORCID: [0000-0002-7437-6735](https://orcid.org/0000-0002-7437-6735)
+* LinkedIn: [Deperias Kerre](https://www.linkedin.com/in/deperias-kerre-4b251ba9/)
+* Personal Website: [deperiaskerre.github.io](https://deperiaskerre.github.io)
