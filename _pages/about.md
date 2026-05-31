@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Deperias Kerre | Postdoctoral Researcher"
+title: "Deperias Kerre, PhD | Postdoctoral Researcher"
 author_profile: true
 redirect_from: 
   - /about/
