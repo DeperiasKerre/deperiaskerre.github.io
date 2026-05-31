@@ -4,7 +4,6 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## Teaching
 
 I am a Lecturer at the School of Computing and Engineering Sciences, Strathmore University, Kenya, where I teach undergraduate and graduate courses in computer science, information technology, artificial intelligence, and data management. I am also actively involved in student mentorship, project supervision, and postgraduate research guidance.
 
