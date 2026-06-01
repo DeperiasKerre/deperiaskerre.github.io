@@ -39,6 +39,10 @@
 
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands",
-     "vendor/academicons"
+    "vendor/font-awesome/brands"
 ;
+/* Custom CSS below */
+
+.author__urls-wrapper {
+    max-height: none !important;
+    overflow: visible !important;
