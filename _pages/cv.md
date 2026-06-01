@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-📄 **Download Full CV**
+📄 **[Download Full CV](/files/CV_Deperias.pdf)**
 
 ## Current Position
 
