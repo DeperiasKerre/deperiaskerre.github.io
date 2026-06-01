@@ -4,8 +4,6 @@ title: "Contact"
 author_profile: true
 ---
 
-## Contact
-
 📧 **Email:** [deperias.kerre@uliege.be](mailto:deperias.kerre@uliege.be)
 
 🔗 **ORCID:** [orcid.org/0000-0002-7437-6735](https://orcid.org/0000-0002-7437-6735)
