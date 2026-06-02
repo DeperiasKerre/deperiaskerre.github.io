@@ -10,12 +10,12 @@
 locale: "en-US"
 site_theme: "default"
 
-title: "Deperias Kerre | Postdoctoral Researcher"
+title: "Deperias Kerre | AI and Semantic Data Integration Researcher"
 title_separator: "-"
 
 name: "Deperias Kerre, PhD"
 
-description: "Postdoctoral researcher working on metadata quality, information retrieval, data integration, and dataset discovery."
+description: "AI and Semantic Data Integration Researcher"
 
 url: "https://deperiaskerre.github.io"
 baseurl: ""
@@ -30,7 +30,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Deperias Kerre, PhD"
   pronouns         : # example: "He/Him"  
-  bio              : "Postdoctoral researcher at the University of Liège specializing in context-aware data integration, information retrieval, and dataset discovery."
+  bio              : "Researcher at the University of Liège working at the intersection of artificial intelligence, semantic technologies, and information retrieval to improve metadata quality, dataset discoverability, and context-aware data integration."
   location         : "Liege, Belgium"
   employer         : "University of Liege"
   employer_uri     : "https://www.uliege.be"
