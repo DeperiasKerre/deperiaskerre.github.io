@@ -59,6 +59,10 @@
   <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
 {% endif %}
       
+{% if author.dblp %}
+  <li><a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw icon-pad-right"></i>DBLP</a></li>
+{% endif %}
+      
 {% assign inspire_hep = author["inspire-hep"] %}
 {% if inspire_hep %}
   <li><a href="{{ inspire_hep }}"><i class="ai ai-inspire ai-fw icon-pad-right"></i>INSPIRE-HEP</a></li>
