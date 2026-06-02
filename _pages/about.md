@@ -7,25 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the Montefiore Institute of Electrical Engineering and Computer Science, University of Liège, Belgium, where I contribute to the Context-Aware Data Integration project. I am also a Lecturer at the School of Computing and Engineering Sciences, Strathmore University, Kenya. My research focuses on artificial intelligence, knowledge representation, information extraction, information retrieval, semantic technologies, metadata quality, and data integration.
+I am a researcher in artificial intelligence and semantic data management, with a particular focus on metadata quality, information retrieval, knowledge representation, and data integration. I am currently a Postdoctoral Researcher at the Montefiore Institute of Electrical Engineering and Computer Science, University of Liège, Belgium, where I contribute to the Context-Aware Data Integration project. I also serve as a Lecturer at the School of Computing and Engineering Sciences, Strathmore University, Kenya.
 
-I hold a BSc in Mathematics and Computer Science (First Class Honours) from Kirinyaga University, an MSc in Information Technology (Artificial Intelligence and Data Analytics) from Strathmore University, and a PhD in Computer Science from the University of Montpellier, France. My doctoral research explored the development of novel information extraction and semantic data integration techniques for knowledge representation and data mining in the quantum cascade laser domain.
+I hold a BSc in Mathematics and Computer Science (First Class Honours) from Kirinyaga University, an MSc in Information Technology (Artificial Intelligence and Data Analytics) from Strathmore University, and a PhD in Computer Science from the University of Montpellier, France. My doctoral research focused on developing information extraction and semantic data integration techniques for knowledge representation and scientific data mining, with applications in the quantum cascade laser domain.
 
-My current research investigates methods for improving data discoverability, interoperability, and reuse through semantic enrichment, metadata quality assessment, and context-aware data integration. More recently, I have been exploring semantic keyword quality, metadata-driven dataset discovery, and the relationship between metadata quality and retrieval performance in data-intensive environments.
+My long-term research goal is to improve the discoverability, interoperability, and reuse of data through semantic technologies, metadata quality assessment, and intelligent information retrieval methods. I am particularly interested in understanding how metadata quality influences data discovery and in developing techniques that enable more effective access to data in heterogeneous environments.
 
 ## Research Interests
 
 * Artificial Intelligence
-* Knowledge Representation
+* Knowledge Representation and Semantic Technologies
 * Information Extraction and Information Retrieval
-* Metadata Quality Assessment
-* Data Integration and Dataset Discovery
-* Semantic Technologies
-* FAIR Data Principles
-* Machine Learning
+* Metadata Quality and Data Discovery
+* Data Integration and Interoperability
+* FAIR Data and Open Data Ecosystems
+* Machine Learning for Data Management
 
 ## Current Research
 
-My current work focuses on context-aware data integration and metadata-driven discovery systems. In particular, I investigate how metadata quality dimensions, influence dataset retrieval performance, discoverability, and interoperability. I am interested in developing methods and tools that support the creation of high-quality metadata and facilitate more effective access to data resources across heterogeneous information environments.
+My current work focuses on context-aware data integration and metadata-driven discovery systems. In particular, I investigate how metadata quality dimensions influence dataset retrieval performance, discoverability, interoperability, and reuse. I am interested in developing methods, metrics, and tools that support the creation of high-quality metadata and facilitate effective access to data resources across heterogeneous information environments.
 
 
