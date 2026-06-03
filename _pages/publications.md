@@ -26,6 +26,6 @@ You can find my publications on [Google Scholar](https://scholar.google.com/cita
 1. TBD
 
 ## Theses
-1. **Deperias Kerre**. A Deep normalized neural network model for strawberry fungal leaf disease detection. MSc in information Technology Thesis. <http://hdl.handle.net/11071/12753>
+1. **Deperias Kerre**. A Deep normalized neural network model for strawberry fungal leaf disease detection. MSc in Information Technology Thesis. <http://hdl.handle.net/11071/12753>
 2. **Deperias Kerre**. Mining Scientific Data for the Study of the Heterostructure Design and the Optoelectronic Properties of Quantum Cascade Lasers. PhD in Computer Science Thesis. <https://theses.fr/s374624>
 
