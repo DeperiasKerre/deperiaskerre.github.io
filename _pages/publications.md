@@ -12,9 +12,10 @@ You can find my publications on [Google Scholar](https://scholar.google.com/cita
 * [Theses](#theses)
 
 ## Journal Articles
-1. Kerre, D., Laurent, A., Maussang, K., & Owuor, D. (2025). A Concise Ontological Model of the Design
-and Optoelectronic Properties in the Quantum Cascade Laser Domain. Semantic Web, 16 (4),
-22104968251359870. <https://doi.org/10.1177/22104968251359870>
-1. Kerre, D., Laurent, A., Maussang, K., & Owuor, D. (2025). An Instruction Dataset for Extraction of the
-Quantum Cascade Laser Properties from Text. Data in Brief, 58, 111255.
-<https://doi.org/10.1016/j.dib.2024.111255>
+1. **Kerre, D.**, Laurent, A., Maussang, K., & Owuor, D. (2025). A Concise Ontological Model of the Design and Optoelectronic Properties in the Quantum Cascade Laser Domain. Semantic Web, 16 (4), 22104968251359870. <https://doi.org/10.1177/22104968251359870>
+2. **Kerre, D.**, Laurent, A., Maussang, K., & Owuor, D. (2025). An Instruction Dataset for Extraction of the Quantum Cascade Laser Properties from Text. Data in Brief, 58, 111255. <https://doi.org/10.1016/j.dib.2024.111255>
+
+## Conference Papers
+1. **Kerre, D.**, Laurent, A., Maussang, K., & Owuor, D. (2023). A text mining pipeline for mining the quantum cascade laser properties. In European Conference on Advances in Databases and Information Systems (pp. 393-406). Cham: Springer Nature Switzerland. <https://doi.org/10.1007/978-3-031-42941-5_34>
+2. **Kerre, D** & Muchiri, H (2022). Detecting the Simultaneous Occurrence of Strawberry Fungal Leaf Diseases with a Deep Normalized CNN. In 2022 7th International Conference on Machine Learning Technologies, (ACM), 147-154. <https://doi.org/10.1145/3529399.3529424>
+## Workshop Papers
