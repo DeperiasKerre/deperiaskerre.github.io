@@ -20,10 +20,12 @@ You can find my publications on [Google Scholar](https://scholar.google.com/cita
 2. **Kerre, D** & Muchiri, H (2022). Detecting the Simultaneous Occurrence of Strawberry Fungal Leaf Diseases with a Deep Normalized CNN. In 2022 7th International Conference on Machine Learning Technologies, (ACM), 147-154. <https://doi.org/10.1145/3529399.3529424>
 
 ## Workshop Papers
-1. **Kerre, D.**, Laurent, A., Maussang, K., & Owuor, D. (2025). Semantic Enrichment of the Quantum Cascade Laser Properties in Text-A Knowledge Graph Generation Approach. In LLM-TEXT2KG 2025:
-4th International Workshop on LLM-Integrated Knowledge Graph Generation from Text (Text2KG) Co-located with the Extended Semantic Web Conference (ESWC 2025), June 1 - June 5, 2025, Portoroz,
-Slovenia. pp.68-89. <https://ceur-ws.org/Vol-4020/Paper_ID_4.pdf>
+1. **Kerre, D.**, Laurent, A., Maussang, K., & Owuor, D. (2025). Semantic Enrichment of the Quantum Cascade Laser Properties in Text-A Knowledge Graph Generation Approach. In LLM-TEXT2KG 2025: 4th International Workshop on LLM-Integrated Knowledge Graph Generation from Text (Text2KG) Co-located with the Extended Semantic Web Conference (ESWC 2025), June 1 - June 5, 2025, Portoroz, Slovenia. pp.68-89. <https://ceur-ws.org/Vol-4020/Paper_ID_4.pdf>
 
 ## Posters and Demos 
 1. TBD
+
+## Theses
+1. **Deperias Kerre**. A Deep normalized neural network model for strawberry fungal leaf disease detection. MSc in iNformation Technology Thesis. <http://hdl.handle.net/11071/12753>
+2. **Deperias Kerre**. Mining Scientific Data for the Study of the Heterostructure Design and the Optoelectronic Properties of Quantum Cascade Lasers. PhD Thesis in Computer Science. <https://theses.fr/s374624>
 
