@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Deperias Kerre, PhD | Researcher in Artificial Intelligence and Semantic Technologies"
+title: "Researcher in Artificial Intelligence and Semantic Technologies"
 author_profile: true
 redirect_from: 
   - /about/
