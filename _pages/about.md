@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in artificial intelligence and semantic data management, with a particular focus on metadata quality, information retrieval, knowledge representation, and data integration. I am currently a Postdoctoral Researcher at the Montefiore Institute of Electrical Engineering and Computer Science, University of Liège, Belgium, where I contribute to the Context-Aware Data Integration project. I also serve as a Lecturer at the School of Computing and Engineering Sciences, Strathmore University, Kenya.
+I am a researcher in artificial intelligence and semantic data management, with a particular focus on metadata quality, information retrieval, knowledge representation, and data integration. I am currently a Postdoctoral Researcher at the Montefiore Institute of Electrical Engineering and Computer Science, [University of Liège](https://www.uliege.be/), Belgium, where I contribute to the Context-Aware Data Integration project. I also serve as a Lecturer at the School of Computing and Engineering Sciences, [Strathmore University](https://strathmore.edu/), Kenya.
 
 I hold a BSc in Mathematics and Computer Science (First Class Honours) from Kirinyaga University in 2018, an MSc in Information Technology (Artificial Intelligence and Data Analytics) from Strathmore University in 2021, and a PhD in Computer Science from the University of Montpellier, France in 2025. My doctoral research focused on developing information extraction and semantic data integration techniques for knowledge representation and scientific data mining, with applications in the quantum cascade laser domain.
 
