@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Researcher in Artificial Intelligence and Semantic Technologies"
+title: "Researcher in Artificial Intelligence and Semantic Data Integration"
 author_profile: true
 redirect_from: 
   - /about/
