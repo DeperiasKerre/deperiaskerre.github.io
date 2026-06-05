@@ -9,7 +9,6 @@ You can find my publications on [Google Scholar](https://scholar.google.com/cita
 * [Conference Papers](#conference-papers)
 * [Workshop Papers](#workshop-papers)
 * [Posters and Demos](#posters-and-demos)
-* [Theses](#theses)
 
 ## Journal Articles
 1. **Kerre, D.**, Laurent, A., Maussang, K., & Owuor, D. (2025). A Concise Ontological Model of the Design and Optoelectronic Properties in the Quantum Cascade Laser Domain. Semantic Web, 16 (4), 22104968251359870.[📄Download](/papers/2025-A-Concise-Ontological-Model.pdf) <https://doi.org/10.1177/22104968251359870>
@@ -24,8 +23,3 @@ You can find my publications on [Google Scholar](https://scholar.google.com/cita
 
 ## Posters and Demos 
 1. TBD
-
-## Theses
-1. **Deperias Kerre**. A Deep normalized neural network model for strawberry fungal leaf disease detection. MSc in Information Technology Thesis. [📄Download](/papers/ADeepnormalizedneuralnetworkmodelforstrawberryfungalleafdiseasedetection.pdf) <http://hdl.handle.net/11071/12753>
-2. **Deperias Kerre**. Mining Scientific Data for the Study of the Heterostructure Design and the Optoelectronic Properties of Quantum Cascade Lasers. PhD in Computer Science Thesis. [📄Download](/papers/169297_KERRE_2025_archivage.pdf) <https://theses.fr/s374624>
-
