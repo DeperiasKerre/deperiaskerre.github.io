@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Projects"
+title: "Research Projects and Grants"
 permalink: /projects/
 author_profile: true
 ---
-# Research Projects and Grants
-
 ## Projects
 
 ### Climate Change AI Research Project
