@@ -8,7 +8,6 @@ You can find my publications on [Google Scholar](https://scholar.google.com/cita
 * [Journal Articles](#journal-articles)
 * [Conference Papers](#conference-papers)
 * [Workshop Papers](#workshop-papers)
-* [Posters and Demos](#posters-and-demos)
 
 ## Journal Articles
 1. **Kerre, D.**, Laurent, A., Maussang, K., & Owuor, D. (2025). A Concise Ontological Model of the Design and Optoelectronic Properties in the Quantum Cascade Laser Domain. Semantic Web, 16 (4), 22104968251359870.[📄Download](/papers/2025-A-Concise-Ontological-Model.pdf) <https://doi.org/10.1177/22104968251359870>
@@ -20,6 +19,3 @@ You can find my publications on [Google Scholar](https://scholar.google.com/cita
 
 ## Workshop Papers
 1. **Kerre, D.**, Laurent, A., Maussang, K., & Owuor, D. (2025). Semantic Enrichment of the Quantum Cascade Laser Properties in Text-A Knowledge Graph Generation Approach. In LLM-TEXT2KG 2025: 4th International Workshop on LLM-Integrated Knowledge Graph Generation from Text (Text2KG) Co-located with the Extended Semantic Web Conference (ESWC 2025), June 1 - June 5, 2025, Portoroz, Slovenia. pp.68-89.[📄Download](/papers/Paper_ID_4.pdf) <https://ceur-ws.org/Vol-4020/Paper_ID_4.pdf>
-
-## Posters and Demos 
-1. TBD
