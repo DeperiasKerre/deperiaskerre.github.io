@@ -15,13 +15,9 @@ redirect_from:
 
 ## Affiliation
 
-* **Postdoctoral Researcher**
-Montefiore Institute of Electrical Engineering and Computer Science
-University of Liège, Belgium
+* **Postdoctoral Researcher**-Montefiore Institute of Electrical Engineering and Computer Science University of Liège, Belgium
 
-* **Lecturer**
-School of Computing and Engineering Sciences
-Strathmore University, Kenya
+* **Lecturer**-School of Computing and Engineering Sciences Strathmore University, Kenya
 
 ## Education
 
