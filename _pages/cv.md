@@ -15,11 +15,11 @@ redirect_from:
 
 ## Affiliation
 
-**Postdoctoral Researcher**
+* **Postdoctoral Researcher**
 Montefiore Institute of Electrical Engineering and Computer Science
 University of Liège, Belgium
 
-**Lecturer**
+* **Lecturer**
 School of Computing and Engineering Sciences
 Strathmore University, Kenya
 
