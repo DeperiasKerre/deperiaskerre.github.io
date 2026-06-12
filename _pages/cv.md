@@ -13,7 +13,7 @@ redirect_from:
 
 📄 **[Download Full CV](/files/CV_Deperias.pdf)**
 
-## Current Position
+## Affiliation
 
 **Postdoctoral Researcher**
 Montefiore Institute of Electrical Engineering and Computer Science
