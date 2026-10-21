@@ -18,6 +18,7 @@ I am a Lecturer at the School of Computing and Engineering Sciences, Strathmore 
 * Artificial Intelligence and Machine Learning
 * Research Project Supervision
 * Graduate Research Methods and Mentorship
+  
 <!--
 ## Supervision and Guidance
 ### MSc Thesis Supervision
