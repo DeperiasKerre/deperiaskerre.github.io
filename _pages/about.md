@@ -15,8 +15,7 @@ My long-term research goal is to improve the discoverability, interoperability, 
 
 ## Research Interests
 
-* Artificial Intelligence
-* Knowledge Representation and Semantic Technologies
+* Artificial Intelligence, Knowledge Representation and Semantic Technologies
 * Information Extraction and Information Retrieval
 * Metadata Quality and Data Discovery
 * Data Integration and Interoperability
@@ -28,11 +27,3 @@ My long-term research goal is to improve the discoverability, interoperability, 
 My current work focuses on context-aware data integration and metadata-driven discovery systems. In particular, I investigate how metadata quality dimensions influence dataset retrieval performance, discoverability, interoperability, and reuse. I am interested in developing methods, metrics, and tools that support the creation of high-quality metadata and facilitate effective access to data resources across heterogeneous information environments.
 
 📄 **[Download Full CV](/files/CV_Deperias.pdf)**
-
-## Educational Backgound
-
-* **PhD in Computer Science**, University of Montpellier, France (2025)
-* **MSc in Information Technology (Artificial Intelligence and Data Analytics)**, Strathmore University (2021)
-* **BSc in Mathematics and Computer Science (First Class Honours)**, Kirinyaga University (2018)
-
-
