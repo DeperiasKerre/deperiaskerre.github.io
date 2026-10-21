@@ -1,16 +1,17 @@
 ---
-permalink: /contact/
-title: "Contact"
+permalink: /keid/
+title: "KEID Lab"
 author_profile: true
 ---
+# KEID Lab — Research Pillars
+KEID Lab is an upcoming research group to be hosted at Strathmore University and will explore how heterogeneous data can be meaningfully represented, integrated and discovered through knowledge engineering, semantic technologies and artificial intelligence.
 
-📧 **Email:** [deperias.kerre@uliege.be](mailto:deperias.kerre@uliege.be)
+- **Knowledge Representation and Engineering** — Ontology design, knowledge modelling, knowledge graphs, and semantic representation of information.
 
-🔗 **ORCID:** [orcid.org/0000-0002-7437-6735](https://orcid.org/0000-0002-7437-6735)
+- **Heterogeneous Data Integration and Interoperability** — Integrating data from diverse sources through schema matching, entity resolution, semantic alignment, and knowledge graph construction.
 
-💼 **LinkedIn:** [linkedin.com/in/deperias-kerre-4b251ba9](https://www.linkedin.com/in/deperias-kerre-4b251ba9/)
+- **Metadata Quality and Data Discovery** — Assessing metadata and keyword quality to improve dataset discoverability, search, retrieval, and reuse, particularly in open-data environments.
 
-**Affiliations**
+- **Neuro-Symbolic AI for Data and Knowledge** — Combining neural models with symbolic representations and reasoning to support knowledge construction, semantic integration, and intelligent data discovery.
 
-- Montefiore Institute, University of Liège, Belgium
-- School of Computing and Engineering Sciences, Strathmore University, Kenya
+- **Semantic Technologies and Intelligent Data Access** — Developing semantic approaches and intelligent methods that help users find, connect, interpret, and reuse relevant information across heterogeneous data collections.
