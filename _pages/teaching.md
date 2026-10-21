@@ -21,25 +21,8 @@ I am a Lecturer at the School of Computing and Engineering Sciences, Strathmore 
 
 ## Supervision and Guidance
 ### MSc Thesis Supervision
-Research areas include:
-* Artificial Intelligence, Machine Learning and Information Retrieval
-* Knowledge Representation and Semantic Technologies
-* Data Integration
-* Data Analytics and Data Dicoverability
-  
+*TBD
 ### PhD Thesis Co-supervision
-Research areas include:
-* Artificial Intelligence
-* Knowledge Representation
-* Semantic Data Integration
-* Metadata Quality and Information Retrieval
-
+*TBD
 ### PhD Thesis Supervision
-Research interests include:
-* Knowledge Representation and Reasoning
-* Machine Learning for Knowledge Representation
-* Information Retrieval and Dataset Discovery
-* Metadata Quality Assessment
-* Data Integration, FAIR Data and Data Interoperability
-
-
+*TBD
