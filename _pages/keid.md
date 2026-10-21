@@ -16,7 +16,7 @@ KEID (Knowledge Engineering, Integration and Discovery) Lab is an upcoming resea
 - **Semantic Technologies and Intelligent Data Access** — Developing semantic approaches and intelligent methods that help users find, connect, interpret, and reuse relevant information across heterogeneous data collections.
 # Team Members
 
-KEID Lab collaborates with researchers whose expertise complements its research in knowledge representation, data integration, semantic technologies, and artificial intelligence. These collaborations bring together complementary perspectives and expertise while respecting each collaborator's affiliation with their own research group.
+KEID Lab collaborates with researchers whose expertise complements its research in knowledge representation, data integration, semantic technologies, and artificial intelligence. These collaborations bring together complementary perspectives and expertise.
 
 ## Collaborators
 
