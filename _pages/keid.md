@@ -3,7 +3,6 @@ permalink: /keid/
 title: "KEID Lab"
 author_profile: true
 ---
-# KEID Lab
 KEID (Knowledge Engineering, Integration and Discovery) Lab is an upcoming research group to be hosted at the School of Computing and Engineering Sciences of Strathmore University and will explore how heterogeneous data can be meaningfully represented, integrated and discovered through knowledge engineering, semantic technologies and artificial intelligence. The main research pillars are as follows:
 
 - **Knowledge Representation and Engineering** — Ontology design, knowledge modelling, knowledge graphs, and semantic representation of information.
