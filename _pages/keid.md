@@ -16,6 +16,7 @@ author_profile: true
 - **Semantic Technologies and Intelligent Data Access** — Developing semantic approaches and intelligent methods that help users find, connect, interpret, and reuse relevant information across heterogeneous data collections.
 
 # Team 
+
 ## MSC students
 * TBD
 ## PhD Students
