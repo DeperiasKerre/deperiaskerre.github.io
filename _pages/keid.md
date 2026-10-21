@@ -14,6 +14,7 @@ author_profile: true
 - **Neuro-Symbolic AI for Data and Knowledge** — Combining neural models with symbolic representations and reasoning to support knowledge construction, semantic integration, and intelligent data discovery.
 
 - **Semantic Technologies and Intelligent Data Access** — Developing semantic approaches and intelligent methods that help users find, connect, interpret, and reuse relevant information across heterogeneous data collections.
+
 # Team 
 ## MSC students
 * TBD
