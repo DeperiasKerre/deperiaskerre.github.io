@@ -3,8 +3,8 @@ permalink: /keid/
 title: "KEID Lab"
 author_profile: true
 ---
-# KEID Lab — Research Pillars
-KEID Lab is an upcoming research group to be hosted at Strathmore University and will explore how heterogeneous data can be meaningfully represented, integrated and discovered through knowledge engineering, semantic technologies and artificial intelligence.
+# KEID Lab
+KEID Lab is an upcoming research group to be hosted at Strathmore University and will explore how heterogeneous data can be meaningfully represented, integrated and discovered through knowledge engineering, semantic technologies and artificial intelligence. The main research pillars are as follows:
 
 - **Knowledge Representation and Engineering** — Ontology design, knowledge modelling, knowledge graphs, and semantic representation of information.
 
