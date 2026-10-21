@@ -35,8 +35,9 @@ redirect_from:
 * Semantic Web Technologies
 * FAIR Data Principles
 
-## Academic Profiles
+## Academic Profiles and Contact
 
 * ORCID: [0000-0002-7437-6735](https://orcid.org/0000-0002-7437-6735)
 * LinkedIn: [Deperias Kerre](https://www.linkedin.com/in/deperias-kerre-4b251ba9/)
 * Personal Website: [deperiaskerre.github.io](https://deperiaskerre.github.io)
+* 📧 **Email:** [deperias.kerre@uliege.be](mailto:deperias.kerre@uliege.be)
