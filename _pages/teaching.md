@@ -21,8 +21,8 @@ I am a Lecturer at the School of Computing and Engineering Sciences, Strathmore 
 
 ## Supervision and Guidance
 ### MSc Thesis Supervision
-*TBD
+* TBD
 ### PhD Thesis Co-supervision
-*TBD
+* TBD
 ### PhD Thesis Supervision
-*TBD
+* TBD
