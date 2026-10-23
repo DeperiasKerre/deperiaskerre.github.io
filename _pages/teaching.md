@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching and Student Supervision"
 permalink: /teaching/
 author_profile: true
 ---
